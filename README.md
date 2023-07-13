@@ -1,5 +1,26 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Caprasimo&size=31&duration=2000&pause=500&color=7957D5&center=true&multiline=true&width=435&height=101&lines=Welcome+to+my+github;Have+a+good+day!" alt="Typing SVG" />
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Caprasimo&size=31&duration=2000&pause=500&color=7957D5&center=true&multiline=true&width=435&height=55&lines=Hi+I'm+Zoushen6" alt="Typing SVG" />
+</h2>
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+    
+  - 🔭 I’m currently working on [vite-demo]([https://github.com/BlackDagger007/foodie](https://github.com/Zoushen6/vite-demo))
+  
+  - 🌱 I’m currently learning **nginx**
+  
+  - 👯 I’m looking to collaborate on **Vue3 projects** 
+  
+  - 💬 Ask me about **Vue, javascript, nodejs**
+  
+  - 📫 How to reach me **1131717009@qq.com**
+
+  </div>
 </div>
+<br/>
+
+<h2 align="center">Languages and Tools</h2>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=css,discord,express,git,github,gitlab,html,js,linux,mysql,nodejs,ps,ts,vscode&perline=10">
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoushen6&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&title_color=7957d5&icon_color=fff&bg_color=ffffff&theme=graywhite" /> 
