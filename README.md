@@ -1,9 +1,10 @@
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Caprasimo&size=31&duration=2000&pause=500&color=7957D5&center=true&multiline=true&width=435&height=55&lines=Hi+I'm+Zoushen6" alt="Typing SVG" />
 </h2>
-<div style="display:flex">
+<div>
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-    
-  - 🔭 I’m currently working on [vite-demo]([https://github.com/BlackDagger007/foodie](https://github.com/Zoushen6/vite-demo))
+  <div>
+  
+  - 🔭 I’m currently working on [vite-demo](https://github.com/Zoushen6/vite-demo)
   
   - 🌱 I’m currently learning **nginx**
   
@@ -12,7 +13,10 @@
   - 💬 Ask me about **Vue, javascript, nodejs**
   
   - 📫 How to reach me **1131717009@qq.com**
+    
+  - 😄 Pronouns: sisi
 
+  </div>
   </div>
 </div>
 <br/>
