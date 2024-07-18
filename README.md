@@ -26,9 +26,6 @@
   <img src="https://skillicons.dev/icons?i=css,discord,express,git,github,gitlab,html,js,linux,mysql,nodejs,ps,ts,vscode&perline=10">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoushen6&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&title_color=7957d5&icon_color=fff&bg_color=ffffff&theme=graywhite" /> 
-</div>
 
 <!--
 **Zoushen6/Zoushen6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
